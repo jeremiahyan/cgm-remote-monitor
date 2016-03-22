@@ -201,7 +201,7 @@ h1, legend,
 }
 
 #toolbar {
-  background: url(/images/logo-zc.png) no-repeat 3px 3px #baeeeb;
+  background: url(/images/logo-zc.png) no-repeat 3px 3px #84e8e1;
   border-bottom: 1px solid #666;
   top: 0;
   margin: 0;
@@ -210,7 +210,7 @@ h1, legend,
 }
 
 #toolbar .customTitle {
-  color: #eee;
+  color: #f6f6f6;
   font-size: 16px;
   margin-top: 0;
   margin-left: 48px;
@@ -232,7 +232,7 @@ h1, legend,
 
 #buttonbar a,
 #buttonbar i {
-  color: #ccc;
+  color: #f6f6f6;
   font-size: 16px;
   height: 44px;
   line-height: 44px;
